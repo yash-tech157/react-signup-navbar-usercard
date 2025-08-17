@@ -18,7 +18,7 @@ A simple React project featuring a **Signup Page**, a **Responsive Navbar**, and
 
 ## 🛠️ Tech Stack
 - React.js  
-- CSS / Tailwind (if used)  
+- CSS 
 
 ---
 
@@ -28,3 +28,4 @@ A simple React project featuring a **Signup Page**, a **Responsive Navbar**, and
    ```bash
    git clone https://github.com/yash-tech157/react-signup-navbar-usercard.git
    cd react-signup-navbar-usercard
+npm install

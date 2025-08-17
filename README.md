@@ -1,16 +1,30 @@
-# React Signup, Navbar & UserCard
+# React Signup Navbar Usercard
 
-This project is a simple React application (built with **Vite**) that demonstrates:
-
-- ✅ A **Sign-Up Form** with validation (Full Name, Email, Password)  
-- ✅ A **Responsive Navigation Bar** with links (Home, About, Contact, Sign Up)  
-- ✅ A reusable **`<UserCard />` component** that displays name and email in a card layout  
+A simple React project featuring a **Signup Page**, a **Responsive Navbar**, and a **User Card** component.
 
 ---
 
-## 🚀 Tech Stack
-- React 18 + Vite
-- CSS (custom styling, responsive design)
+## 🚀 Live Demo
+👉 [View Live on Netlify](https://comforting-starlight-e0f108.netlify.app/)
 
 ---
 
+## 📂 Features
+- Signup form with validation  
+- Responsive navigation bar  
+- User card component with styled layout  
+
+---
+
+## 🛠️ Tech Stack
+- React.js  
+- CSS / Tailwind (if used)  
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yash-tech157/react-signup-navbar-usercard.git
+   cd react-signup-navbar-usercard
